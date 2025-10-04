@@ -85,7 +85,7 @@ Ao completar cada workflow com sucesso, você ganha os badges:
 
 ---
 
-## Gustavo
+## Gustavo Costa
 
 **Feito pela comunidade LINUXtips.**
 
